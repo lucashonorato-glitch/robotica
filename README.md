@@ -1,75 +1,109 @@
 
-🤖 PROJETO: ROBÓTICA INDUSTRIAL
-📚 Tema
 
-Robótica Industrial e Automação de Processos
+🤖 ROBÓTICA INDUSTRIAL
+🏭 Projeto de Desenvolvimento Web — Robótica e Automação Industrial
+📚 TEMA
 
-🏫 Sala
+Robótica Industrial
+
+A robótica industrial é uma área da tecnologia dedicada ao desenvolvimento e utilização de robôs e sistemas automatizados capazes de realizar tarefas em ambientes industriais. Esses equipamentos são utilizados para aumentar a produtividade, melhorar a precisão dos processos, reduzir erros e proporcionar maior segurança aos trabalhadores.
+
+🏫 SALA
 
 Sala 102
 
-👨‍💻 Integrantes
+👨‍💻 INTEGRANTE 01
 
 Lucas H
+
+👨‍💻 INTEGRANTE 02
+
 Bernardo
+
+👨‍💻 INTEGRANTE 03
+
 Richard
+
+👨‍💻 INTEGRANTE 04
+
 Kaio
+
+👨‍💻 INTEGRANTE 05
+
 Erique
 
-💡 Sobre o Projeto
+🎯 OBJETIVO DO PROJETO
 
-Este projeto tem como objetivo desenvolver um site institucional e informativo sobre Robótica Industrial, apresentando os principais conceitos, aplicações, tecnologias e benefícios da utilização de robôs no ambiente industrial.
+O objetivo deste projeto é desenvolver um site institucional e informativo sobre robótica industrial, apresentando de maneira clara, visual e interativa os principais conceitos, tecnologias, aplicações e soluções utilizadas no setor de automação industrial.
 
-A robótica industrial é uma área da tecnologia voltada para o desenvolvimento e utilização de máquinas programáveis capazes de executar tarefas de forma automática, com precisão, velocidade e repetibilidade. Esses robôs são utilizados em diversos setores da indústria, como automobilístico, alimentício, eletrônico, farmacêutico e metalúrgico.
+O projeto busca demonstrar como os robôs são utilizados para transformar os processos de produção e como a tecnologia contribui para o desenvolvimento de fábricas mais eficientes e automatizadas.
 
-🤖 O que é Robótica Industrial?
+🤖 O QUE É ROBÓTICA INDUSTRIAL?
 
-A Robótica Industrial é o ramo da robótica dedicado à aplicação de sistemas automatizados em processos de produção. Os robôs industriais podem realizar tarefas como soldagem, montagem, pintura, movimentação de materiais, inspeção, embalagem e manipulação de peças.
+A Robótica Industrial envolve o uso de máquinas programáveis capazes de executar movimentos e tarefas de forma automática. Os robôs podem ser programados para realizar atividades repetitivas ou que exigem grande precisão, velocidade e força.
 
-Esses sistemas podem ser programados para executar movimentos específicos e trabalhar de maneira integrada com outros equipamentos e sistemas de automação.
+Entre as atividades realizadas por robôs industriais estão:
 
-⚙️ Principais Tecnologias
+🔧 Montagem de componentes;
+🔥 Soldagem;
+🎨 Pintura industrial;
+📦 Embalagem de produtos;
+🚚 Movimentação de materiais;
+🔍 Inspeção e controle de qualidade;
+🏗️ Paletização;
+⚙️ Manipulação de peças.
+⚙️ PRINCIPAIS TECNOLOGIAS
 
-O projeto abordará diferentes tecnologias relacionadas à robótica e à automação industrial, incluindo:
+A robótica industrial utiliza diversas tecnologias para permitir que os robôs funcionem de maneira eficiente e segura.
 
-Robôs industriais
-Sensores e atuadores
-Sistemas de controle
-Inteligência artificial
-Visão computacional
-Automação de processos
-Programação de robôs
-Internet das Coisas (IoT)
-Indústria 4.0
-🏭 Aplicações na Indústria
+Sensores: permitem que os sistemas detectem objetos, posições, temperatura, distância e outras informações do ambiente.
 
-Os robôs industriais são utilizados principalmente para aumentar a produtividade, precisão, segurança e eficiência dos processos de fabricação.
+Atuadores: transformam comandos em movimentos físicos, permitindo que braços robóticos e outros equipamentos realizem ações.
 
-Entre suas principais aplicações estão:
+Controladores: processam informações e enviam comandos para controlar os movimentos e funções do robô.
 
-Soldagem de peças
-Pintura industrial
-Montagem de componentes
-Transporte e movimentação de materiais
-Separação e organização de produtos
-Controle de qualidade
-Embalagem
-Paletização
-Inspeção automatizada
-🎯 Objetivo do Site
+Visão Computacional: permite que sistemas automatizados identifiquem objetos, posições e características por meio de câmeras.
 
-O site tem como objetivo apresentar essas informações de maneira clara, visual, organizada e interativa, permitindo que os visitantes conheçam melhor o funcionamento da robótica industrial e compreendam sua importância para o desenvolvimento da indústria moderna.
+Inteligência Artificial: pode ser utilizada para análise de dados, reconhecimento de padrões e tomada de decisões automatizadas.
 
-💻 Tecnologias Utilizadas no Desenvolvimento
+Internet das Coisas (IoT): possibilita a comunicação entre máquinas, sensores e sistemas conectados.
 
-HTML5 — responsável pela estrutura e organização do conteúdo.
+🏭 APLICAÇÕES NA INDÚSTRIA
 
-CSS3 — utilizado para criar o design, layout, cores, animações e responsividade do site.
+A robótica está presente em diversos setores industriais. Na indústria automobilística, por exemplo, robôs podem ser utilizados em processos de soldagem, pintura e montagem.
 
-JavaScript (Vanilla) — utilizado para implementar as funcionalidades interativas e os comportamentos dinâmicos da página.
+Na indústria alimentícia, podem auxiliar na embalagem, separação e movimentação de produtos. Já em setores eletrônicos e farmacêuticos, podem executar tarefas que exigem alta precisão e controle.
 
-🚀 Importância da Robótica
+🌐 ROBÓTICA E INDÚSTRIA 4.0
 
-A robótica industrial possui um papel fundamental na transformação dos processos produtivos. Com a evolução tecnológica, os robôs passaram a realizar tarefas cada vez mais complexas, contribuindo para uma produção mais rápida, precisa, segura e eficiente.
+A robótica industrial está diretamente relacionada à Indústria 4.0, conceito que representa a integração entre máquinas, sistemas, dados e tecnologias inteligentes.
 
-Além disso, a integração entre robótica, inteligência artificial, sensores e sistemas conectados é uma das principais características da Indústria 4.0, tornando as fábricas cada vez mais inteligentes e automatizadas.
+A utilização conjunta de robótica, inteligência artificial, sensores, IoT e análise de dados permite criar processos industriais mais conectados, automatizados e eficientes.
+
+💻 TECNOLOGIAS UTILIZADAS NO SITE
+HTML5
+
+Responsável pela estrutura e organização das páginas e conteúdos do site.
+
+CSS3
+
+Utilizado para desenvolver o visual, layout, cores, animações e responsividade da aplicação.
+
+JavaScript (Vanilla)
+
+Responsável pela interatividade e funcionalidades dinâmicas do site, sem utilização de frameworks ou bibliotecas externas.
+
+🚀 CONCLUSÃO
+
+A robótica industrial representa uma das principais tecnologias utilizadas na modernização da indústria. Sua aplicação permite automatizar tarefas, aumentar a produtividade, melhorar a precisão e proporcionar ambientes de trabalho mais seguros.
+
+Por meio deste projeto, buscamos apresentar esses conceitos de forma informativa, moderna, visual e interativa, demonstrando a importância da robótica para a indústria atual e para o futuro da automação.
+
+📌 INFORMAÇÕES DO PROJETO
+
+Projeto: Robótica Industrial
+Área: Tecnologia e Automação Industrial
+Disciplina: Desenvolvimento Web
+Sala: 102
+Tecnologias: HTML5 • CSS3 • JavaScript (Vanilla)
+Equipe: Lucas H • Bernardo • Richard • Kaio • Erique
