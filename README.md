@@ -1,6 +1,4 @@
-Claro. Abaixo está um cabeçalho mais completo, organizado para um README do GitHub, com cada informação em uma linha e uma apresentação mais detalhada sobre robótica industrial.
 
-Escrita
 🤖 PROJETO: ROBÓTICA INDUSTRIAL
 📚 Tema
 
